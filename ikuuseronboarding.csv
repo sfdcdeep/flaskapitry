@@ -1,0 +1,732 @@
+Name,Requestor Name,Form Status,Requestor Email,Sequence Field,Approver Name,Approver Email,Request Number,WF_SERAForm,Modified,Modified By,Checked Out To,WF_SERAForm2,SERole Assigned,SERule Set Assigned,Current Approver Email,Rule Assigned,On Behalf Of Email,OnBehalfOf Name,Approver Comments,Rule,SYNAPSE_Form,ID,Txt Request Date,Request Date,Request On Behalf Of User,Request Status Dropdown,SYNAPSEReminder-Workflow,SYNAPSE_Reminder,WaitingStatus,WF_SYNAPSEForm,WF_SYNAPSEReminder,Item Type,Path
+SERAForm 000272.xml,Angela Martins xamber,In Progress,amartins454656@example.com,SERAForm 000272,Mary Kiefer,ikuexample.com,272,,4/26/2018 8:38,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",amartins45465545@example.com,Angela Martins xamber,,,,278,4/26/2018,4/26/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000271.xml,Teresa Caloto,In Progress,tcaloto45345@example.com,SERAForm 000271,Mary Kiefer,ikuexample.com,271,,4/26/2018 8:37,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",tcaloto453453@example.com,Teresa Caloto,,,,277,4/26/2018,4/26/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000270.xml,Silvia Guallart Bolanos,Pending Training Completion,sguallartexample.com,SERAForm 000270,Mary Kiefer,ikuexample.com,270,,4/26/2018 8:36,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sguallart@example.com,Silvia Guallart Bolanos,,,,276,4/26/2018,4/26/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000269.xml,Cristina Varela Moreno,Pending Training Completion,cvarelamorenoexample.com,SERAForm 000269,Mary Kiefer,ikuexample.com,269,,4/26/2018 8:34,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cvarelamoreno@example.com,Cristina Varela Moreno,,,,275,4/26/2018,4/26/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000268.xml,David Delgado Calvo,Pending Training Completion,ddelgadocalvoexample.com,SERAForm 000268,Mary Kiefer,ikuexample.com,268,,4/26/2018 8:33,Mary Kiefer,,,Business user,,mkieferexample.com,"
+SSO Permission
+Business User",ddelgadocalvo@example.com,David Delgado Calvo,,,,274,4/26/2018,4/26/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000267.xml,Pablo Regueras Escudero,Pending Training Completion,preguerasescuderoexample.com,SERAForm 000267,Mary Kiefer,ikuexample.com,267,,4/26/2018 8:25,Mary Kiefer,,,Business user,,mkieferexample.com,"
+SSO Permission
+Business User",preguerasescudero@example.com,Pablo Regueras Escudero,,,,273,4/26/2018,4/26/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000266.xml,Arindam Roy,Pending Training Completion,aroyexample.com,SERAForm 000266,Mary Kiefer,ikuexample.com,266,,4/26/2018 8:32,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",a,Arindam Roy,,,,272,4/25/2018,4/25/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000265.xml,Yu Nemawari,Pending Training Completion,ynemawariexample.com,SERAForm 000265,Mary Kiefer,ikuexample.com,265,,4/25/2018 9:09,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ynemawari@example.com,Yu Nemawari,,,,271,4/24/2018,4/24/2018,Yu Nemawari,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000264.xml,Lea Purnomo,Awaiting_IKU_Data_Steward_Approval,lpurnomoexample.com,SERAForm 000264,,ikuexample.com,264,,4/24/2018 11:24,Lea Purnomo,,,business user,,,,lpurnomo@example.com,Lea Purnomo,,,,270,4/24/2018,4/24/2018,Lea Purnomo,Awaiting_IKU_Data_Steward_Approval,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000263.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000263,Mary Kiefer,ikuexample.com,263,,4/20/2018 10:39,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mbranson@example.com,Mary Kiefer,,,,269,4/20/2018,4/20/2018,Mike Branson,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000262.xml,Valerie Jessent-Ciaravino,Pending Training Completion,vjessent-ciaravinoexample.com,SERAForm 000262,Mary Kiefer,ikuexample.com,262,,4/19/2018 11:50,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",vj@example.com,Valerie Jessent-Ciaravino,,,,268,4/19/2018,4/19/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000261.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000261,Mary Kiefer,ikuexample.com,261,,4/25/2018 9:16,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ysaha@example.com,Yashajit Saha (non-Celgene),,,,267,4/18/2018,4/18/2018,Yashajit Saha (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000260.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000260,Mary Kiefer,ikuexample.com,260,,4/25/2018 9:15,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",abs@example.com,Abhishek Sharma (non-Celgene),,,,266,4/18/2018,4/18/2018,Abhishek Sharma (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000259.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000259,Mary Kiefer,ikuexample.com,259,,4/26/2018 8:27,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",diroy@example.com,Dipayan Roy (non-Celgene),,,,265,4/18/2018,4/18/2018,Dipayan Roy (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000258.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000258,Mary Kiefer,ikuexample.com,258,,4/25/2018 9:14,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",amitkumar@example.com,Amit Kumar (non-Celgene),,,,264,4/18/2018,4/18/2018,Amit Kumar (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000257.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000257,Mary Kiefer,ikuexample.com,257,,4/25/2018 9:13,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ribaweja@example.com,Ritesh Baweja (non-Celgene),,,,263,4/18/2018,4/18/2018,Ritesh Baweja (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000256.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000256,Mary Kiefer,ikuexample.com,256,,4/25/2018 9:13,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",kma@example.com,Kapil Mangal (non-Celgene),,,,262,4/18/2018,4/18/2018,Kapil Mangal (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000255.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000255,Mary Kiefer,ikuexample.com,255,,4/24/2018 9:19,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",rac@example.com,Rahul Chaudhary (non-Celgene),,,,261,4/18/2018,4/18/2018,Rahul Chaudhary (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000254.xml,Christopher Belmonte (non-Celgene),Pending Training Completion,cbelmonteexample.com,SERAForm 000254,Mary Kiefer,ikuexample.com,254,,4/25/2018 9:11,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mnarang@example.com,Mandeep Narang (non-Celgene),,,,260,4/18/2018,4/18/2018,Mandeep Narang (non-Celgene),Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000253.xml,Christopher Belmonte (non-Celgene),Awaiting_IKU_Data_Steward_Approval,cbelmonteexample.com,SERAForm 000253,,ikuexample.com,253,,4/18/2018 16:32,Christopher Belmonte (non-Celgene),,,business user,,,,aravindran@example.com,Arvind Ravindran (non-Celgene),,,,259,4/18/2018,4/18/2018,Arvind Ravindran (non-Celgene),Awaiting_IKU_Data_Steward_Approval,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000252.xml,Alberto Montironi,Closed,amontironiexample.com,SERAForm 000252,Mary Kiefer,ikuexample.com,252,,4/20/2018 10:11,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",amontironi@example.com,,,,,258,4/17/2018,4/17/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000251.xml,Susana Parathath,Closed,sparathathexample.com,SERAForm 000251,Mary Kiefer,ikuexample.com,251,,4/17/2018 6:15,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sparathath@example.com,,,,,257,4/12/2018,4/12/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000250.xml,Brian Kaiser (non-Celgene),Closed,bkaiserexample.com,SERAForm 000250,Mary Kiefer,ikuexample.com,250,,4/16/2018 15:32,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",bkaiser@example.com,,,,,256,4/11/2018,4/11/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000249.xml,Keith Koharski,Closed,kkoharskiexample.com,SERAForm 000249,Mary Kiefer,ikuexample.com,249,,4/11/2018 2:38,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sgundala@example.com,Srivatsa Gundala,,,,255,4/10/2018,4/10/2018,Srivatsa Gundala,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000248.xml,Gregory Caillet,Pending Training Completion,gcailletexample.com,SERAForm 000248,Mary Kiefer,ikuexample.com,248,,4/10/2018 8:51,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",gcaillet@example.com,,,,,254,4/10/2018,4/10/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000247.xml,Clemence Marque,Pending Training Completion,cmarqueexample.com,SERAForm 000247,Mary Kiefer,ikuexample.com,247,,4/10/2018 8:50,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cmarque@example.com,,,,,253,4/10/2018,4/10/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000246.xml,Anuj Kapoor (non-Celgene),Closed,akapoorexample.com,SERAForm 000246,Mary Kiefer,ikuexample.com,246,,4/17/2018 6:18,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User
+Agile Accelerator",akapoor@example.com,Anuj Kapoor (non-Celgene),,,,252,4/9/2018,4/9/2018,Anuj Kapoor (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000245.xml,Mary Kiefer,Pending Training Completion,mkieferexample.com,SERAForm 000245,Mary Kiefer,ikuexample.com,245,,4/5/2018 16:56,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",nkilavuz@example.com,Nurgul Kilavuz,,,,251,4/5/2018,4/5/2018,Nurgul Kilavuz,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000244.xml,Christie Craig (non-Celgene),Closed,chcraigexample.com,SERAForm 000244,Mary Kiefer,ikuexample.com,244,,4/17/2018 6:18,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User
+Agile Accelerator",chcraig@example.com,Christie Craig (non-Celgene),,,,250,4/5/2018,4/5/2018,Christie Craig (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000243.xml,Esther Carrasco,Closed,ecarrascoexample.com,SERAForm 000243,Mary Kiefer,ikuexample.com,243,,4/11/2018 2:38,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ecarrasco@example.com,Esther Carrasco,,,,249,4/4/2018,4/4/2018,Esther Carrasco,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000242.xml,Miguel Vargas,Closed,mivargasexample.com,SERAForm 000242,Mary Kiefer,ikuexample.com,242,,4/6/2018 8:08,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mivargas@example.com,,,,,248,4/3/2018,4/3/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000241.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000241,Mary Kiefer,ikuexample.com,241,,4/3/2018 8:52,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",amagarwal@example.com,Amit Agarwal,,,,247,4/2/2018,4/2/2018,Amit Agarwal,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000240.xml,Gautham Kondapaneni (non-Celgene),Awaiting_IKU_Data_Steward_Approval,gkondapaneniexample.com,SERAForm 000240,,ikuexample.com,240,,4/2/2018 8:35,Gautham Kondapaneni (non-Celgene),,,business user,,,,gkondapaneni@example.com,Gautham Kondapaneni (non-Celgene),,,,246,4/2/2018,4/2/2018,Gautham Kondapaneni (non-Celgene),Awaiting_IKU_Data_Steward_Approval,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000239.xml,Roma Agrawal Sit (non-Celgene),Closed,ragrawalsitexample.com,SERAForm 000239,Mary Kiefer,ikuexample.com,239,,4/3/2018 9:01,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User
+Agile Accelerator",ragrawalsit@example.com,Roma Agrawal Sit (non-Celgene),,,,245,3/28/2018,3/28/2018,Roma Agrawal Sit (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000238.xml,Anurag Gupta (non-Celgene),Closed,anuguptaexample.com,SERAForm 000238,Mary Kiefer,ikuexample.com,238,,4/17/2018 6:18,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User
+Agile Accelerator",anugupta@example.com,Anurag Gupta (non-Celgene),,,,244,3/28/2018,3/28/2018,Anurag Gupta (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000237.xml,Mitasvil Patel (non-Celgene),Rejected,mitapatelexample.com,SERAForm 000237,Mary Kiefer,ikuexample.com,237,,3/28/2018 13:00,Mary Kiefer,,,business user,,mkieferexample.com,,anugupta@example.com,Anurag Gupta (non-Celgene),duplicate,,,243,3/28/2018,3/28/2018,Anurag Gupta (non-Celgene),Rejected,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000236.xml,Mitasvil Patel (non-Celgene),Rejected,mitapatelexample.com,SERAForm 000236,Mary Kiefer,ikuexample.com,236,,3/28/2018 13:00,Mary Kiefer,,,business user,,mkieferexample.com,,ragrawalsit@example.com,Roma Agrawal Sit (non-Celgene),duplicate,,,242,3/28/2018,3/28/2018,Roma Agrawal Sit (non-Celgene),Rejected,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000235.xml,Madhu Ballani (non-Celgene),Closed,mballaniexample.com,SERAForm 000235,Madhu Ballani (non-Celgene),ikuexample.com,235,,4/3/2018 9:38,Madhu Ballani (non-Celgene),,,business user,,mballaniexample.com,"
+SSO Permission
+Business User
+Data Steward
+Agile Accelerator",dmani@example.com,Dinesh Mani (non-Celgene),,,,241,3/27/2018,3/27/2018,Dinesh Mani (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000234.xml,Francesca Fraval,Pending Training Completion,ffravalexample.com,SERAForm 000234,Amy Kellerman,ikuexample.com,234,,3/22/2018 14:55,Amy Kellerman,,,business user,,AKellermanexample.com,"
+SSO Permission",ffraval@example.com,,,,,239,3/22/2018,3/22/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000233.xml,Maria de la luz Tornell Sevillano (non-Celgene),Closed,mltornellsevillanoexample.com,SERAForm 000233,Maria de la luz Tornell Sevillano (non-Celgene),ikuexample.com,233,,3/26/2018 5:26,Madhu Ballani (non-Celgene),,,business user,,mltornellsevillanoexample.com,"
+SSO Permission",dvilanova@example.com,David Vilanova,,,,238,3/22/2018,3/22/2018,David Vilanova,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000232.xml,Carmen Garcia,Pending Training Completion,cagarciaexample.com,SERAForm 000232,Carmen Garcia,ikuexample.com,232,,3/22/2018 14:54,Amy Kellerman,,,business user,,cagarciaexample.com,"
+SSO Permission",nquintana@example.com,Nuria Quintana,,,,237,3/22/2018,3/22/2018,Nuria Quintana,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000231.xml,Rocio Lopez,Pending Training Completion,rolopezexample.com,SERAForm 000231,Amy Kellerman,ikuexample.com,231,,3/22/2018 14:53,Amy Kellerman,,,business user,,AKellermanexample.com,"
+SSO Permission",rolopez@example.com,,,,,236,3/22/2018,3/22/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000230.xml,Zeynep Demir,Pending Training Completion,zdemirexample.com,SERAForm 000230,Amy Kellerman,ikuexample.com,230,,3/21/2018 17:31,Amy Kellerman,,,business user,,AKellermanexample.com,"
+SSO Permission",zdemir@example.com,,,,,235,3/21/2018,3/21/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000229.xml,Vasudha Bajaj,Pending Training Completion,vbajajexample.com,SERAForm 000229,Amy Kellerman,ikuexample.com,229,,3/21/2018 17:30,Amy Kellerman,,,business user,,AKellermanexample.com,"
+SSO Permission",vbajaj@example.com,,,,,234,3/21/2018,3/21/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000228.xml,Joep Bisselink,Closed,jbisselinkexample.com,SERAForm 000228,Joep Bisselink,ikuexample.com,228,,4/11/2018 2:38,Madhu Ballani (non-Celgene),,,business user,,jbisselinkexample.com,"
+SSO Permission",jbisselink@example.com,Joep Bisselink,,,,233,3/21/2018,3/21/2018,Joep Bisselink,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000227.xml,Alejandro Salazar,Pending Training Completion,asalazarexample.com,SERAForm 000227,Alejandro Salazar,ikuexample.com,227,,3/16/2018 9:41,Mary Kiefer,,,business user,,asalazarexample.com,"
+SSO Permission
+Business User",aza@example.com,Alejandro Salazar,,,,232,3/16/2018,3/16/2018,Alejandro Salazar,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000226.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000226,Mary Kiefer,ikuexample.com,226,,3/15/2018 11:09,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",chmarshall@example.com,Christina Marshall,,,,231,3/15/2018,3/15/2018,Christina Marshall,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000225.xml,Gaia Gobbo,Pending Training Completion,ggobboexample.com,SERAForm 000225,Mary Kiefer,ikuexample.com,225,,3/15/2018 7:31,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ggobbo@example.com,,,,,230,3/15/2018,3/15/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000224.xml,Ogi Takahashi,Closed,otakahashiexample.com,SERAForm 000224,Mary Kiefer,ikuexample.com,224,,3/26/2018 5:26,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",otakahashi@example.com,,,,,229,3/14/2018,3/14/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000223.xml,Neeraj Shah,Closed,neshahexample.com,SERAForm 000223,Mary Kiefer,ikuexample.com,223,,3/26/2018 5:27,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",neshah@example.com,,,,,228,3/13/2018,3/13/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000222.xml,Richard Crane,Closed,rcraneexample.com,SERAForm 000222,Mary Kiefer,ikuexample.com,222,,3/9/2018 11:59,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",rcrane@example.com,,,,,227,3/9/2018,3/9/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000221.xml,Navyasree Mandava (non-Celgene),Closed,namandavaexample.com,SERAForm 000221,Mary Kiefer,ikuexample.com,221,,4/3/2018 9:36,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",namandava@example.com,Navyasree Mandava (non-Celgene),,,,226,3/9/2018,3/9/2018,Navyasree Mandava (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000220.xml,Rick Hippert,Closed,rhippertexample.com,SERAForm 000220,Amy Kellerman,ikuexample.com,220,,3/9/2018 12:00,Babita Bhagchandani (non-Celgene),,,business user,,AKellermanexample.com,"
+SSO Permission
+Business User",rhippert@example.com,,,,,225,3/7/2018,3/7/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000219.xml,Uwe Haendel,Pending Training Completion,uhaendelexample.com,SERAForm 000219,Uwe Haendel,ikuexample.com,219,,3/7/2018 9:12,Mary Kiefer,,,business user,,uhaendelexample.com,"
+SSO Permission
+Business User",gvoraberger@example.com,Guenter Voraberger,,,,224,3/7/2018,3/7/2018,Guenter Voraberger,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000218.xml,Sandhya Mehta,Closed,sanmehtaexample.com,SERAForm 000218,Mary Kiefer,ikuexample.com,218,,3/26/2018 5:28,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sanmehta@example.com,,,,,223,3/6/2018,3/6/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000217.xml,Christine Hulme,Pending Training Completion,chulmeexample.com,SERAForm 000217,Mary Kiefer,ikuexample.com,217,,3/6/2018 8:07,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",chulme@example.com,,,,,222,3/5/2018,3/5/2018,,Pending Training Completion,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000216.xml,Bernhard Lagg,Closed,blaggexample.com,SERAForm 000216,Mary Kiefer,ikuexample.com,216,,3/26/2018 5:28,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",blagg@example.com,,,,,221,3/1/2018,3/1/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000215.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000215,Mary Kiefer,ikuexample.com,215,,3/6/2018 2:27,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jbeyer@example.com,Joanne Beyer,,,,220,3/1/2018,3/1/2018,Joanne Beyer,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000214.xml,Anthony Scaccia (non-Celgene),Rejected,ascacciaexample.com,SERAForm 000214,Anthony Scaccia (non-Celgene),ikuexample.com,214,,2/28/2018 10:04,Mary Kiefer,,,business user,,ascacciaexample.com,,ascaccia@example.com,Anthony Scaccia (non-Celgene),duplicate request,,,219,2/27/2018,2/27/2018,Anthony Scaccia (non-Celgene),Rejected,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000213.xml,Anthony Scaccia (non-Celgene),Closed,ascacciaexample.com,SERAForm 000213,Mary Kiefer,ikuexample.com,213,,2/28/2018 13:51,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ascaccia@example.com,,,,,218,2/26/2018,2/26/2018,,Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000212.xml,Steve Fridman,Pending Training Completion,sfridmanexample.com,SERAForm 000212,Mary Kiefer,ikuexample.com,212,,2/23/2018 15:50,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sfridman@example.com,,,,,217,2/23/2018,2/23/2018,,Pending Training Completion,,,0,,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000211.xml,Babita Bhagchandani (non-Celgene),Closed,bbhagchandaniexample.com,SERAForm 000211,Babita Bhagchandani (non-Celgene),ikuexample.com,211,,3/6/2018 2:27,Dinesh Mani (non-Celgene),,,business user,,bbhagchandaniexample.com,"
+SSO Permission
+Business User",ksekar@example.com,Karthick Sekar (non-Celgene),,,,216,2/23/2018,2/23/2018,Karthick Sekar (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000210.xml,Babita Bhagchandani (non-Celgene),Closed,bbhagchandaniexample.com,SERAForm 000210,Babita Bhagchandani (non-Celgene),ikuexample.com,210,,3/7/2018 1:20,Dinesh Mani (non-Celgene),,,business user,,bbhagchandaniexample.com,"
+SSO Permission
+Business User
+Agile Accelerator",pdevarajulu@example.com,Priyanka Devarajulu (non-Celgene),,,,215,2/23/2018,2/23/2018,Priyanka Devarajulu (non-Celgene),Closed,,,0,5,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000209.xml,Babita Bhagchandani (non-Celgene),Closed,bbhagchandaniexample.com,SERAForm 000209,Babita Bhagchandani (non-Celgene),ikuexample.com,209,,3/6/2018 2:27,Dinesh Mani (non-Celgene),,,business user,,bbhagchandaniexample.com,"
+SSO Permission
+Business User
+Agile Accelerator",goreddy@example.com,Gouthami Reddy (non-Celgene),,,,214,2/23/2018,2/23/2018,Gouthami Reddy (non-Celgene),Closed,,,0,5,2,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000208.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000208,Mary Kiefer,ikuexample.com,208,,2/22/2018 16:26,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User
+Agile Accelerator",sashukla@example.com,Saumya Shukla (non-Celgene),,,,213,2/22/2018,2/22/2018,Saumya Shukla (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000207.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000207,Mary Kiefer,ikuexample.com,207,,2/22/2018 16:16,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",adefontaubert@example.com,Anouk De Fontaubert,,,,212,2/22/2018,2/22/2018,Anouk De Fontaubert,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000206.xml,Karine Richard,Rejected,krichardexample.com,SERAForm 000206,Karine Richard,ikuexample.com,206,,4/21/2018 8:45,System Account,,,business user,,krichardexample.com,"
+SSO Permission
+Business User",abelaube@example.com,Axelle Belaube,Form Auto-Rejected because of Unmet training requirement over 60 Days,,,211,2/20/2018,2/20/2018,Axelle Belaube,Rejected,,,1,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000205.xml,Liridona Podrimaj,Closed,lpodrimajexample.com,SERAForm 000205,Liridona Podrimaj,ikuexample.com,205,,2/27/2018 0:56,Dinesh Mani (non-Celgene),,,business user,,lpodrimajexample.com,"
+SSO Permission
+Business User",lpodrimaj@example.com,Liridona Podrimaj,,,,210,2/20/2018,2/20/2018,Liridona Podrimaj,Closed,,,0,5,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000204.xml,Smital Dalavi (non-Celgene),Closed,sdalaviexample.com,SERAForm 000204,Smital Dalavi (non-Celgene),ikuexample.com,204,,2/27/2018 12:26,Babita Bhagchandani (non-Celgene),,,business user,,sdalaviexample.com,"
+Business User
+SSO Permission",sdalavi@example.com,Smital Dalavi (non-Celgene),,,,209,2/20/2018,2/20/2018,Smital Dalavi (non-Celgene),Closed,,,0,5,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000203.xml,Sarah Klein,Closed,sakleinexample.com,SERAForm 000203,Mary Kiefer,ikuexample.com,203,,2/22/2018 0:04,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",saklein@example.com,,,,,208,2/19/2018,2/19/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000202.xml,Carmen Mas Oliver,Closed,cmasoliverexample.com,SERAForm 000202,Mary Kiefer,ikuexample.com,202,,2/15/2018 12:56,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cmasoliver@example.com,,,,,207,2/15/2018,2/15/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000201.xml,Anouk De Fontaubert,Closed,adefontaubertexample.com,SERAForm 000201,Anouk De Fontaubert,ikuexample.com,201,,2/22/2018 0:04,Dinesh Mani (non-Celgene),,,business user,,adefontaubertexample.com,"
+SSO Permission
+Business User",ethibout@example.com,Emmanuel Thibout,,,,206,2/15/2018,2/15/2018,Emmanuel Thibout,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000200.xml,Philippe Pechon,Closed,ppechonexample.com,SERAForm 000200,Mary Kiefer,ikuexample.com,200,,2/15/2018 22:11,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ppechon@example.com,,,,,205,2/15/2018,2/15/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000199.xml,Sidney Bucky Bennett,Rejected,sbennettexample.com,SERAForm 000199,Sidney Bucky Bennett,ikuexample.com,199,,4/13/2018 17:10,System Account,,,business user,,sbennettexample.com,"
+SSO Permission
+Business User",sbennett@example.com,Sidney Bucky Bennett,Form Auto-Rejected because of Unmet training requirement over 60 Days,,,204,2/12/2018,2/12/2018,Sidney Bucky Bennett,Rejected,,,1,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000198.xml,Aditya Vanarase,Closed,avanaraseexample.com,SERAForm 000198,Mary Kiefer,ikuexample.com,198,,2/15/2018 12:42,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",avanarase@example.com,,,,,203,2/9/2018,2/9/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000197.xml,Jean Williams,Rejected,jewilliamsexample.com,SERAForm 000197,Jean Williams,ikuexample.com,197,,4/10/2018 15:45,System Account,,,business user,,jewilliamsexample.com,"
+SSO Permission
+Business User",jewilliams@example.com,Jean Williams,Form Auto-Rejected because of Unmet training requirement over 60 Days,,,202,2/8/2018,2/8/2018,Jean Williams,Rejected,,,1,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000196.xml,Jose Ignacio Juarez (non-Celgene),Closed,jijuarezexample.com,SERAForm 000196,Mary Kiefer,ikuexample.com,196,,2/27/2018 9:36,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jijuarez@example.com,,,,,201,2/8/2018,2/8/2018,,Closed,,,0,5,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000195.xml,Dalila Lampe Ivanovska,Rejected,dlampeexample.com,SERAForm 000195,Mary Kiefer,ikuexample.com,195,,4/10/2018 19:55,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dlampe@example.com,,Form Auto-Rejected because of Unmet training requirement over 60 Days,,,200,2/7/2018,2/7/2018,,Rejected,,,1,5,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000194.xml,Carmen Mas Oliver,Closed,cmasoliverexample.com,SERAForm 000194,Mary Kiefer,ikuexample.com,194,,2/15/2018 12:48,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cmasoliver@example.com,,,,,199,2/6/2018,2/6/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000193.xml,C. Dan Dumitru,Closed,cdumitruexample.com,SERAForm 000193,Mary Kiefer,ikuexample.com,193,,2/5/2018 1:26,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cdumitru@example.com,,,,,198,1/31/2018,1/31/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000192.xml,David Chenal,Rejected,DChenalexample.com,SERAForm 000192,Mary Kiefer,ikuexample.com,192,,4/12/2018 3:35,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",DChenal@example.com,,Form Auto-Rejected because of Unmet training requirement over 60 Days,,,197,1/31/2018,1/31/2018,,Rejected,,,1,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000191.xml,Barbara Moser,Closed,bmoserexample.com,SERAForm 000191,Mary Kiefer,ikuexample.com,191,,2/5/2018 1:26,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",bmoser@example.com,,,,,196,1/30/2018,1/30/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000190.xml,Chaithanya Bachu (non-Celgene),Closed,cbachuexample.com,SERAForm 000190,Chaithanya Bachu (non-Celgene),ikuexample.com,190,,2/15/2018 22:11,Dinesh Mani (non-Celgene),,,business user,,cbachuexample.com,"
+SSO Permission
+Business User",cbachu@example.com,Chaithanya Bachu (non-Celgene),,,,195,1/30/2018,1/30/2018,Chaithanya Bachu (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000189.xml,Ali Basha Patel (non-Celgene),Closed,albpatelexample.com,SERAForm 000189,Ali Basha Patel (non-Celgene),ikuexample.com,189,,2/5/2018 1:26,Dinesh Mani (non-Celgene),,,business user,,albpatelexample.com,"
+SSO Permission
+Business User",albpatel@example.com,Ali Basha Patel (non-Celgene),,,,194,1/29/2018,1/29/2018,Ali Basha Patel (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000188.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000188,Mary Kiefer,ikuexample.com,188,,1/25/2018 0:26,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jlouis@example.com,Jean Louis (non-Celgene),,,,193,1/24/2018,1/24/2018,Jean Louis (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000187.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000187,Mary Kiefer,ikuexample.com,187,,1/25/2018 0:26,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",agagliardo@example.com,Anthony Gagliardo (non-Celgene),,,,192,1/24/2018,1/24/2018,Anthony Gagliardo (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000186.xml,Kyle Dunton,Closed,kduntonexample.com,SERAForm 000186,Mary Kiefer,ikuexample.com,186,,1/24/2018 10:24,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",kdunton@example.com,,,,,191,1/24/2018,1/24/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000185.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000185,Mary Kiefer,ikuexample.com,185,,1/29/2018 5:49,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",juzhang@example.com,Jun Zhang,,,,190,1/23/2018,1/23/2018,Jun Zhang,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000184.xml,Mary Kiefer,Rejected,mkieferexample.com,SERAForm 000184,Mary Kiefer,ikuexample.com,184,,3/24/2018 9:46,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",kbulyha@example.com,Katharina Bulyha,Form Auto-Rejected because of Unmet training requirement over 60 Days,,,189,1/23/2018,1/23/2018,Katharina Bulyha,Rejected,,,1,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000183.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000183,Mary Kiefer,ikuexample.com,183,,1/29/2018 5:49,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",kdunton@example.com,Kyle Dunton,,,,188,1/23/2018,1/23/2018,Kyle Dunton,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000182.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000182,Mary Kiefer,ikuexample.com,182,,1/25/2018 0:30,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ggaffey@example.com,George Gaffey (non-Celgene),,,,187,1/23/2018,1/23/2018,George Gaffey (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000181.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000181,Mary Kiefer,ikuexample.com,181,,1/25/2018 0:30,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",asamchenko@example.com,Alex Samchenko (non-Celgene),,,,186,1/23/2018,1/23/2018,Alex Samchenko (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000180.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000180,Mary Kiefer,ikuexample.com,180,,1/25/2018 0:29,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",vreina@example.com,Vanessa Reina (non-Celgene),,,,185,1/23/2018,1/23/2018,Vanessa Reina (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000179.xml,Cliff Alison (non-Celgene),Closed,calisonexample.com,SERAForm 000179,Mary Kiefer,ikuexample.com,179,,1/25/2018 0:28,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",calison@example.com,,,,,184,1/22/2018,1/22/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000178.xml,Patricia Desjardins,Rejected,pdesjardinsexample.com,SERAForm 000178,Mary Kiefer,ikuexample.com,178,,3/23/2018 12:10,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",pdesjardins@example.com,,Form Auto-Rejected because of Unmet training requirement over 60 Days,,,183,1/22/2018,1/22/2018,,Rejected,,,1,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000177.xml,Tejas Piyush (non-Celgene),Closed,tpiyushexample.com,SERAForm 000177,Tejas Piyush (non-Celgene),ikuexample.com,177,,2/5/2018 1:26,Dinesh Mani (non-Celgene),,,business user,,tpiyushexample.com,"
+SSO Permission
+Business User",tpiyush@example.com,Tejas Piyush (non-Celgene),,,,181,1/22/2018,1/22/2018,Tejas Piyush (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000176.xml,Kyle Dunton,Rejected,kduntonexample.com,SERAForm 000176,Mary Kiefer,ikuexample.com,176,,1/19/2018 7:00,Mary Kiefer,,,business user,,mkieferexample.com,,kdunton@example.com,,"Request is not rejected, we just need to close this form to push a release to production, additional communication to follow",,,180,1/19/2018,1/19/2018,,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000175.xml,Katharina Bulyha,Rejected,kbulyhaexample.com,SERAForm 000175,Mary Kiefer,ikuexample.com,175,,1/19/2018 7:00,Mary Kiefer,,,business user,,mkieferexample.com,,kbulyha@example.com,,"Request is not rejected, we just need to close this form to push a release to production, additional communication to follow",,,179,1/19/2018,1/19/2018,,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000174.xml,Tejas Piyush (non-Celgene),Rejected,tpiyushexample.com,SERAForm 000174,Tejas Piyush (non-Celgene),ikuexample.com,174,,1/19/2018 7:00,Mary Kiefer,,,business user,,tpiyushexample.com,,tpiyush@example.com,Tejas Piyush (non-Celgene),"Request is not rejected, we just need to close this form to push a release to production, additional communication to follow",,,178,1/19/2018,1/19/2018,Tejas Piyush (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000173.xml,Jun Zhang,Rejected,juzhangexample.com,SERAForm 000173,Mary Kiefer,ikuexample.com,173,,1/19/2018 7:00,Mary Kiefer,,,business user,,mkieferexample.com,,juzhang@example.com,,"Request is not rejected, we just need to close this form to push a release to production, additional communication to follow",,,177,1/18/2018,1/18/2018,,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000172.xml,Saumya Shukla (non-Celgene),Rejected,sashuklaexample.com,SERAForm 000172,Saumya Shukla (non-Celgene),ikuexample.com,172,,1/19/2018 7:01,Mary Kiefer,,,business user,,sashuklaexample.com,,sashukla@example.com,Saumya Shukla (non-Celgene),"Request is not rejected, we just need to close this form to push a release to production, additional communication to follow",,,176,1/18/2018,1/18/2018,Saumya Shukla (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000171.xml,Robert Trondl,Closed,rtrondlexample.com,SERAForm 000171,Robert Trondl,ikuexample.com,171,,1/19/2018 7:01,Mary Kiefer,,,business user,,rtrondlexample.com,"
+SSO Permission
+Business User",rtrondl@example.com,Robert Trondl,,,,175,1/18/2018,1/18/2018,Robert Trondl,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000170.xml,Chiara Greggio,Closed,cgreggioexample.com,SERAForm 000170,Mary Kiefer,ikuexample.com,170,,1/19/2018 7:01,Mary Kiefer,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cgreggio@example.com,,,,,174,1/18/2018,1/18/2018,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000169.xml,Aaditya Nanduri,Rejected,aananduriexample.com,SERAForm 000169,Aaditya Nanduri,ikuexample.com,169,,1/17/2018 13:51,Mary Kiefer,,,business user,,aananduriexample.com,,calison@example.com,Cliff Alison (non-Celgene),"Request is not rejected, we just need to close this form to push a release to production ",,,173,1/17/2018,1/17/2018,Cliff Alison (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000168.xml,Mitasvil Patel (non-Celgene),Rejected,mitapatelexample.com,SERAForm 000168,Mitasvil Patel (non-Celgene),ikuexample.com,168,,1/17/2018 9:11,Mary Kiefer,,,business user,,mitapatelexample.com,,visrivastava@example.com,Vishal Srivastava (non-Celgene),"Your request is not rejected, we just need to close open forms to release enhancements to the template",,,172,1/16/2018,1/16/2018,Vishal Srivastava (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000167.xml,Tushar Kandwal (non-Celgene),Rejected,tkandwalexample.com,SERAForm 000167,Tushar Kandwal (non-Celgene),ikuexample.com,167,,1/17/2018 9:04,Mary Kiefer,,,business user,,tkandwalexample.com,,tkandwal@example.com,Tushar Kandwal (non-Celgene),account aready created,,,171,1/16/2018,1/16/2018,Tushar Kandwal (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000166.xml,Kristin Feeney (non-Celgene),Closed,kfeeneyexample.com,SERAForm 000166,Kristin Feeney (non-Celgene),ikuexample.com,166,,1/17/2018 22:12,Dinesh Mani (non-Celgene),,,business user,,kfeeneyexample.com,"
+SSO Permission
+Business User",drobert@example.com,Dennis Robert (non-Celgene),,,,170,1/16/2018,1/16/2018,Dennis Robert (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000165.xml,Kristin Feeney (non-Celgene),Rejected,kfeeneyexample.com,SERAForm 000165,Kristin Feeney (non-Celgene),ikuexample.com,165,,1/17/2018 9:11,Mary Kiefer,,,business user,,kfeeneyexample.com,,wmlynaryk@example.com,Walter Mlynaryk (non-Celgene),"Your request is not rejected, we just need to close open forms to release enhancements to the template",,,169,1/16/2018,1/16/2018,Walter Mlynaryk (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000164.xml,Kristin Feeney (non-Celgene),Rejected,kfeeneyexample.com,SERAForm 000164,Kristin Feeney (non-Celgene),ikuexample.com,164,,1/17/2018 9:11,Mary Kiefer,,,business user,,kfeeneyexample.com,,hxia@example.com,Haiping Xia (non-Celgene),"Your request is not rejected, we just need to close open forms to release enhancements to the template",,,168,1/16/2018,1/16/2018,Haiping Xia (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000163.xml,Kristin Feeney (non-Celgene),Rejected,kfeeneyexample.com,SERAForm 000163,Kristin Feeney (non-Celgene),ikuexample.com,163,,1/17/2018 9:13,Mary Kiefer,,,business user,,kfeeneyexample.com,,jinlliu@example.com,Jinlei Liu (non-Celgene),"Your request is not rejected, we just need to close open forms to release enhancements to the template",,,167,1/16/2018,1/16/2018,Jinlei Liu (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000162.xml,Kristin Feeney (non-Celgene),Rejected,kfeeneyexample.com,SERAForm 000162,Kristin Feeney (non-Celgene),ikuexample.com,162,,1/17/2018 9:13,Mary Kiefer,,,business user,,kfeeneyexample.com,,scharkin@example.com,Sergey Charkin (non-Celgene),"Your request is not rejected, we just need to close open forms to release enhancements to the template",,,166,1/16/2018,1/16/2018,Sergey Charkin (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000161.xml,Robert Trondl,Closed,rtrondlexample.com,SERAForm 000161,Robert Trondl,ikuexample.com,161,,1/17/2018 22:09,Dinesh Mani (non-Celgene),,,business user,,rtrondlexample.com,"
+SSO Permission
+Business User",dghali@example.com,Daniel Ghali,,,,165,1/14/2018,1/14/2018,Daniel Ghali,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000160.xml,Tushar Kandwal (non-Celgene),Rejected,tkandwalexample.com,SERAForm 000160,Tushar Kandwal (non-Celgene),ikuexample.com,160,,1/12/2018 11:19,Mary Kiefer,,,business user,,tkandwalexample.com,,tkandwal@example.com,Tushar Kandwal (non-Celgene),need to close pending request for release of form enhancements,,,164,1/11/2018,1/11/2018,Tushar Kandwal (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000159.xml,Aditi Agrawal (non-Celgene),Rejected,adagrawalexample.com,SERAForm 000159,Mary Kiefer,ikuexample.com,159,,1/12/2018 11:19,Mary Kiefer,,,business user,,mkieferexample.com,,adagrawal@example.com,,need to close pending request for release of form enhancements,,,163,1/11/2018,1/11/2018,,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000158.xml,Rita Ku,Closed,rkuexample.com,SERAForm 000158,Rita Ku,ikuexample.com,158,,1/9/2018 1:05,Dinesh Mani (non-Celgene),,,business user,,rkuexample.com,"
+SSO Permission
+Business User",rku@example.com,Rita Ku,,,,162,1/8/2018,1/8/2018,Rita Ku,Closed,,,0,6,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000157.xml,Anthony Przasnyski,Closed,aprzasnyskiexample.com,SERAForm 000157,Anthony Przasnyski,ikuexample.com,157,,1/9/2018 1:05,Dinesh Mani (non-Celgene),,,business user,,aprzasnyskiexample.com,"
+SSO Permission
+Business User",aprzasnyski@example.com,Anthony Przasnyski,,,,161,1/5/2018,1/5/2018,Anthony Przasnyski,Closed,,,0,6,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000156.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000156,Mary Kiefer,ikuexample.com,156,,1/3/2018 0:57,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",droy@example.com,Debarghya Roy (non-Celgene),,,,160,1/2/2018,1/2/2018,Debarghya Roy (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000155.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000155,Mary Kiefer,ikuexample.com,155,,1/8/2018 5:38,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",rvleuken@example.com,Renske Van Leuken,,,,159,1/2/2018,1/2/2018,Renske Van Leuken,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000154.xml,Agathe Lepage,Closed,alepageexample.com,SERAForm 000154,Agathe Lepage,ikuexample.com,154,,1/8/2018 5:40,Dinesh Mani (non-Celgene),,,business user,,alepageexample.com,"
+SSO Permission
+Business User",abelaube@example.com,Axelle Belaube,,,,158,12/28/2017,12/28/2017,Axelle Belaube,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000153.xml,Sal Passariello (non-Celgene),Rejected,spassarielloexample.com,SERAForm 000153,Mary Kiefer,ikuexample.com,153,,1/10/2018 8:28,Mary Kiefer,,,business user,,mkieferexample.com,,spassariello@example.com,,does not need access,,,157,12/21/2017,12/21/2017,,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000152.xml,Rajanikanth Kura (non-Celgene),Closed,rkuraexample.com,SERAForm 000152,Rajanikanth Kura (non-Celgene),ikuexample.com,152,,12/29/2017 5:13,Dinesh Mani (non-Celgene),,,business user,,rkuraexample.com,"
+SSO Permission
+Business User",rkura@example.com,Rajanikanth Kura (non-Celgene),,,,156,12/21/2017,12/21/2017,Rajanikanth Kura (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000151.xml,Mary Kiefer,Rejected,mkieferexample.com,SERAForm 000151,Mary Kiefer,ikuexample.com,151,,1/10/2018 8:34,Mary Kiefer,,,business user,,mkieferexample.com,,suvghosh@example.com,Suvasish Ghosh (non-Celgene),did not complete training,,,155,12/19/2017,12/19/2017,Suvasish Ghosh (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000150.xml,Mary Kiefer,Rejected,mkieferexample.com,SERAForm 000150,Mary Kiefer,ikuexample.com,150,,1/10/2018 8:34,Mary Kiefer,,,business user,,mkieferexample.com,,nmandal@example.com,Nabamita Mandal (non-Celgene),did not complete training,,,154,12/19/2017,12/19/2017,Nabamita Mandal (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000149.xml,Mary Kiefer,Rejected,mkieferexample.com,SERAForm 000149,Mary Kiefer,ikuexample.com,149,,1/10/2018 8:33,Mary Kiefer,,,business user,,mkieferexample.com,,proy@example.com,Pallab Roy (non-Celgene),did not complete training,,,153,12/19/2017,12/19/2017,Pallab Roy (non-Celgene),Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000148.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000148,Mary Kiefer,ikuexample.com,148,,1/11/2018 2:53,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",amariappan@example.com,Arunkumar Mariappan (non-Celgene),,,,152,12/19/2017,12/19/2017,Arunkumar Mariappan (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000147.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000147,Mary Kiefer,ikuexample.com,147,,1/9/2018 1:07,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",pswain@example.com,Prasanta Swain (non-Celgene),,,,151,12/19/2017,12/19/2017,Prasanta Swain (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000146.xml,Ali Basha Patel (non-Celgene),Rejected,albpatelexample.com,SERAForm 000146,Mary Kiefer,ikuexample.com,146,,1/10/2018 8:31,Mary Kiefer,,,business user,,mkieferexample.com,,albpatel@example.com,,did not complete training,,,150,12/19/2017,12/19/2017,,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000145.xml,Arjun Saladi,Closed,asaladiexample.com,SERAForm 000145,Arjun Saladi,ikuexample.com,145,,12/27/2017 22:04,Dinesh Mani (non-Celgene),,,business user,,asaladiexample.com,"
+SSO Permission
+Business User",asaladi@example.com,Arjun Saladi,,,,149,12/19/2017,12/19/2017,Arjun Saladi,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000144.xml,Christoph Schatzmann,Closed,cschatzmannexample.com,SERAForm 000144,Mary Kiefer,ikuexample.com,144,,12/21/2017 11:37,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cschatzmann@example.com,,,,,148,12/19/2017,12/19/2017,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000143.xml,Pallavi Pawar (non-Celgene),Closed,ppawarexample.com,SERAForm 000143,Pallavi Pawar (non-Celgene),ikuexample.com,143,,1/4/2018 0:05,Dinesh Mani (non-Celgene),,,business user,,ppawarexample.com,"
+SSO Permission
+Business User",ppawar@example.com,Pallavi Pawar (non-Celgene),,,,147,12/19/2017,12/19/2017,Pallavi Pawar (non-Celgene),Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000142.xml,William Kizito,Closed,wkizitoexample.com,SERAForm 000142,Mary Kiefer,ikuexample.com,142,,1/8/2018 5:40,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",wkizito@example.com,,,,,146,12/14/2017,12/14/2017,,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000141.xml,Nina Uurtamo,Rejected,nuurtamoexample.com,SERAForm 000141,Mary Kiefer,ikuexample.com,141,,12/19/2017 16:19,Mary Kiefer,,,business user,,mkieferexample.com,,nuurtamo@example.com,,reqeust already processed,,,145,12/14/2017,12/14/2017,,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000140.xml,Marie-Laure Casadebaig,Closed,mlbravoexample.com,SERAForm 000140,Marie-Laure Casadebaig,ikuexample.com,140,,12/18/2017 2:13,Dinesh Mani (non-Celgene),,,business user,,mlbravoexample.com,"
+SSO Permission
+Business User",cdicasoli@example.com,Carl Di Casoli,,,,144,12/14/2017,12/14/2017,Carl Di Casoli,Closed,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000139.xml,Carl Di Casoli,Rejected,cdicasoliexample.com,SERAForm 000139,Carl Di Casoli,ikuexample.com,139,,12/19/2017 16:15,Mary Kiefer,,,business user,,cdicasoliexample.com,,mlbravo@example.com,Marie-Laure Casadebaig,request already completed,,,143,12/14/2017,12/14/2017,Marie-Laure Casadebaig,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000138.xml,Mary Kiefer,Rejected,mkieferexample.com,SERAForm 000138,Mary Kiefer,ikuexample.com,138,,12/13/2017 17:10,Mary Kiefer,,,business user,,mkieferexample.com,,sdhanasiri@example.com,Sujith Dhanasiri,duplicate request,,,142,12/13/2017,12/13/2017,Sujith Dhanasiri,Rejected,,,0,,5,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000137.xml,Kevin Tsai,Closed,ketsaiexample.com,SERAForm 000137,Mary Kiefer,ikuexample.com,137,,12/29/2017 5:13,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ketsai@example.com,,,,,141,12/7/2017,12/7/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000136.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000136,Mary Kiefer,ikuexample.com,136,,12/18/2017 2:12,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sdhanasiri@example.com,Sujith Dhanasiri,,,,140,12/6/2017,12/6/2017,Sujith Dhanasiri,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000135.xml,Rajiv Shah,Closed,rashahexample.com,SERAForm 000135,Mary Kiefer,ikuexample.com,135,,12/21/2017 11:37,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",rashah@example.com,,,,,139,12/4/2017,12/4/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000134.xml,Marta Almeida,Closed,maalmeidaexample.com,SERAForm 000134,Mary Kiefer,ikuexample.com,134,,1/8/2018 5:41,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",maalmeida@example.com,,,,,138,12/4/2017,12/4/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000133.xml,Tom Tencer,Closed,ttencerexample.com,SERAForm 000133,Mary Kiefer,ikuexample.com,133,,12/19/2017 22:46,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ttencer@example.com,,,,,137,12/1/2017,12/1/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000132.xml,Emmanuel Gomez,Closed,egomezexample.com,SERAForm 000132,Mary Kiefer,ikuexample.com,132,,12/18/2017 2:11,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",egomez@example.com,,,,,136,12/1/2017,12/1/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000131.xml,Jean-Baptiste Quiniou,Closed,jbquiniouexample.com,SERAForm 000131,Mary Kiefer,ikuexample.com,131,,12/18/2017 2:11,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jbquiniou@example.com,,,,,135,12/1/2017,12/1/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000130.xml,Jessica Leygues,Closed,jleyguesexample.com,SERAForm 000130,Jessica Leygues,ikuexample.com,130,,1/8/2018 5:41,Dinesh Mani (non-Celgene),,,business user,,jleyguesexample.com,"
+SSO Permission
+Business User",jleygues@example.com,Jessica Leygues,,,,134,11/30/2017,11/30/2017,Jessica Leygues,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000129.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000129,Mary Kiefer,ikuexample.com,129,,12/19/2017 22:26,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",subiswas@example.com,Subhashis Biswas (non-Celgene),,,,133,11/29/2017,11/29/2017,Subhashis Biswas (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000128.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000128,Mary Kiefer,ikuexample.com,128,,12/19/2017 22:45,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",nkusumbara@example.com,Neel Kusum Bara (non-Celgene),,,,132,11/29/2017,11/29/2017,Neel Kusum Bara (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000127.xml,Ola Gelin,Closed,ogelinexample.com,SERAForm 000127,Ola Gelin,ikuexample.com,127,,12/1/2017 2:20,Dinesh Mani (non-Celgene),,,business user,,ogelinexample.com,"
+SSO Permission
+Business User",ogelin@example.com,Ola Gelin,,,,131,11/29/2017,11/29/2017,Ola Gelin,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000126.xml,Virginia Ingunza,Closed,vingunzaexample.com,SERAForm 000126,Mary Kiefer,ikuexample.com,126,,12/4/2017 22:43,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",vingunza@example.com,,,,,130,11/29/2017,11/29/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000125.xml,Teodoro Piliego,Closed,tpiliegoexample.com,SERAForm 000125,Mary Kiefer,ikuexample.com,125,,1/8/2018 5:43,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",tpiliego@example.com,,,,,129,11/28/2017,11/28/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000124.xml,Lynne Coetzee,Rejected,lcoetzeeexample.com,SERAForm 000124,Lynne Coetzee,ikuexample.com,124,,11/28/2017 7:56,Mary Kiefer,,,business user,,lcoetzeeexample.com,,lcoetzee@example.com,Lynne Coetzee,user already has an Explorer account,,,128,11/28/2017,11/28/2017,Lynne Coetzee,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000123.xml,Christopher Kopf (non-Celgene),Rejected,ckopfexample.com,SERAForm 000123,Christopher Kopf (non-Celgene),ikuexample.com,123,,11/28/2017 8:04,Mary Kiefer,,,business user,,ckopfexample.com,,ckopf@example.com,Christopher Kopf (non-Celgene),"user looking for access to BOSS, not Explorer",,,127,11/27/2017,11/27/2017,Christopher Kopf (non-Celgene),Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000122.xml,Jeff Burtis,Closed,jburtisexample.com,SERAForm 000122,Jeff Burtis,ikuexample.com,122,,1/8/2018 5:43,Dinesh Mani (non-Celgene),,,business user,,jburtisexample.com,"
+SSO Permission
+Business User",jburtis@example.com,Jeff Burtis,,,,126,11/27/2017,11/27/2017,Jeff Burtis,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000121.xml,Roland Tuerk,Closed,rtuerkexample.com,SERAForm 000121,Mary Kiefer,ikuexample.com,121,,12/29/2017 5:13,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",rtuerk@example.com,,,,,125,11/27/2017,11/27/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000120.xml,Alex Heer,Closed,aheerexample.com,SERAForm 000120,Mary Kiefer,ikuexample.com,120,,12/18/2017 2:11,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",aheer@example.com,,,,,124,11/27/2017,11/27/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000119.xml,Diana Trentin,Closed,dtrentinexample.com,SERAForm 000119,Mary Kiefer,ikuexample.com,119,,1/8/2018 5:45,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dtrentin@example.com,,,,,123,11/27/2017,11/27/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000118.xml,Tanguy Courbon,Closed,tcourbonexample.com,SERAForm 000118,Mary Kiefer,ikuexample.com,118,,12/18/2017 2:11,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",tcourbon@example.com,,,,,122,11/27/2017,11/27/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000117.xml,Christian Weidenfeller,Closed,cweidenfellerexample.com,SERAForm 000117,Mary Kiefer,ikuexample.com,117,,1/8/2018 5:48,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cweidenfeller@example.com,,,,,121,11/27/2017,11/27/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000116.xml,Sabine Spinner,Closed,sspinnerexample.com,SERAForm 000116,Mary Kiefer,ikuexample.com,116,,11/30/2017 2:42,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sspinner@example.com,,,,,120,11/27/2017,11/27/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000115.xml,Isabelle Delacroix,Closed,idelacroixexample.com,SERAForm 000115,Isabelle Delacroix,ikuexample.com,115,,1/8/2018 5:49,Dinesh Mani (non-Celgene),,,business user,,idelacroixexample.com,"
+SSO Permission
+Business User",ccosio@example.com,Christophe Cosio,,,,119,11/27/2017,11/27/2017,Christophe Cosio,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000114.xml,Tobias Kornthaler,Closed,tkornthalerexample.com,SERAForm 000114,Mary Kiefer,ikuexample.com,114,,12/19/2017 22:50,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",tkornthaler@example.com,,,,,118,11/27/2017,11/27/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000113.xml,Sophie Nunez,Closed,snunezklopferexample.com,SERAForm 000113,Sophie Nunez,ikuexample.com,113,,12/4/2017 22:37,Dinesh Mani (non-Celgene),,,business user,,snunezklopferexample.com,"
+SSO Permission
+Business User",snunezklopfer@example.com,Sophie Nunez,,,,117,11/24/2017,11/24/2017,Sophie Nunez,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000112.xml,Graziella Barnich,Closed,gbarnichexample.com,SERAForm 000112,Mary Kiefer,ikuexample.com,112,,1/8/2018 5:49,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",gbarnich@example.com,,,,,116,11/24/2017,11/24/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000111.xml,Danielle Berens,Closed,dberensexample.com,SERAForm 000111,Danielle Berens,ikuexample.com,111,,1/4/2018 0:05,Dinesh Mani (non-Celgene),,,business user,,dberensexample.com,"
+SSO Permission
+Business User",dberens@example.com,Danielle Berens,,,,115,11/24/2017,11/24/2017,Danielle Berens,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000110.xml,Kris Theeten,Closed,ktheetenexample.com,SERAForm 000110,Kris Theeten,ikuexample.com,110,,12/11/2017 5:10,Dinesh Mani (non-Celgene),,,business user,,ktheetenexample.com,"
+SSO Permission
+Business User",ktheeten@example.com,Kris Theeten,,,,114,11/24/2017,11/24/2017,Kris Theeten,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000109.xml,Elena Piccolo,Closed,epiccoloexample.com,SERAForm 000109,Mary Kiefer,ikuexample.com,109,,12/19/2017 22:42,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",epiccolo@example.com,,,,,113,11/24/2017,11/24/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000108.xml,Odd-Jan Gjeruldsen,Rejected,ogjeruldsenexample.com,SERAForm 000108,Mary Kiefer,ikuexample.com,108,,12/19/2017 10:35,Mary Kiefer,,,business user,,mkieferexample.com,,ogjeruldsen@example.com,,duplicate request,,,112,11/24/2017,11/24/2017,,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000107.xml,Silvia Morandotti,Closed,smorandottiexample.com,SERAForm 000107,Mary Kiefer,ikuexample.com,107,,12/4/2017 22:41,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",smorandotti@example.com,,,,,111,11/24/2017,11/24/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000106.xml,Claudia Salvaderi,Closed,csalvaderiexample.com,SERAForm 000106,Mary Kiefer,ikuexample.com,106,,11/30/2017 4:11,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",csalvaderi@example.com,,,,,110,11/23/2017,11/23/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000105.xml,Francesca Cafazzo,Closed,fcafazzoexample.com,SERAForm 000105,Mary Kiefer,ikuexample.com,105,,12/11/2017 10:53,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",fcafazzo@example.com,,,,,109,11/22/2017,11/22/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000104.xml,Daisy Berger,Closed,dbergerexample.com,SERAForm 000104,Mary Kiefer,ikuexample.com,104,,11/30/2017 10:49,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dberger@example.com,,,,,108,11/22/2017,11/22/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000103.xml,Daphné Barbedette,Closed,dbarbedetteexample.com,SERAForm 000103,Mary Kiefer,ikuexample.com,103,,1/8/2018 5:50,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dbarbedette@example.com,,,,,107,11/22/2017,11/22/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000102.xml,Anu Davis (non-Celgene),Rejected,anudavisexample.com,SERAForm 000102,Anu Davis (non-Celgene),ikuexample.com,102,,1/10/2018 8:30,Mary Kiefer,,,business user,,anudavisexample.com,,anudavis@example.com,Anu Davis (non-Celgene),did not complete training,,,106,11/22/2017,11/22/2017,Anu Davis (non-Celgene),Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000101.xml,Subhashis Biswas (non-Celgene),Closed,subiswasexample.com,SERAForm 000101,Subhashis Biswas (non-Celgene),ikuexample.com,101,,12/4/2017 22:41,Dinesh Mani (non-Celgene),,,business user,,subiswasexample.com,"
+SSO Permission
+Business User",subiswas@example.com,Subhashis Biswas (non-Celgene),,,,105,11/22/2017,11/22/2017,Subhashis Biswas (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000100.xml,Shubham Kabra (non-Celgene),Closed,skabraexample.com,SERAForm 000100,Shubham Kabra (non-Celgene),ikuexample.com,100,,12/4/2017 22:42,Dinesh Mani (non-Celgene),,,business user,,skabraexample.com,"
+SSO Permission
+Business User",skabra@example.com,Shubham Kabra (non-Celgene),,,,104,11/22/2017,11/22/2017,Shubham Kabra (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000099.xml,Patrick Loerch,Closed,ploerchexample.com,SERAForm 000099,Patrick Loerch,ikuexample.com,99,,1/8/2018 5:50,Dinesh Mani (non-Celgene),,,business user,,ploerchexample.com,"
+SSO Permission
+Business User",jgockley@example.com,Jake Gockley,,,,102,11/21/2017,11/21/2017,Jake Gockley,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000098.xml,Patrick Loerch,Closed,ploerchexample.com,SERAForm 000098,Patrick Loerch,ikuexample.com,98,,1/8/2018 5:51,Dinesh Mani (non-Celgene),,,business user,,ploerchexample.com,"
+SSO Permission
+Business User",aratushny@example.com,Alexander Ratushny,,,,101,11/21/2017,11/21/2017,Alexander Ratushny,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000097.xml,Sandra Thornton,Closed,sthorntonexample.com,SERAForm 000097,Mary Kiefer,ikuexample.com,97,,1/8/2018 5:51,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sthornton@example.com,,,,,100,11/21/2017,11/21/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000096.xml,Jacynthe Touchette,Closed,jtouchetteexample.com,SERAForm 000096,Mary Kiefer,ikuexample.com,96,,1/8/2018 5:52,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jtouchette@example.com,,,,,99,11/21/2017,11/21/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000095.xml,Sylvie Maral,Closed,smaralexample.com,SERAForm 000095,Mary Kiefer,ikuexample.com,95,,1/8/2018 5:52,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",smaral@example.com,,,,,98,11/21/2017,11/21/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000094.xml,Lakshminarayana Rajagopal Yanamandram (non-Celgene),Closed,lyanamandramexample.com,SERAForm 000094,Mary Kiefer,ikuexample.com,94,,11/30/2017 4:12,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",lyanamandram@example.com,,,,,97,11/21/2017,11/21/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000093.xml,Ankit Shah (non-Celgene),Closed,ankshahexample.com,SERAForm 000093,Ankit Shah (non-Celgene),ikuexample.com,93,,1/11/2018 2:53,Dinesh Mani (non-Celgene),,,business user,,ankshahexample.com,"
+SSO Permission
+Business User",ankshah@example.com,Ankit Shah (non-Celgene),,,,96,11/20/2017,11/20/2017,Ankit Shah (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000092.xml,Michael Tedeschi (non-Celgene),Closed,mtedeschiexample.com,SERAForm 000092,Michael Tedeschi (non-Celgene),ikuexample.com,92,,11/20/2017 14:16,Babita Bhagchandani (non-Celgene),,,business user,,mtedeschiexample.com,"
+SSO Permission
+Business User",mtedeschi@example.com,Michael Tedeschi (non-Celgene),,,,95,11/20/2017,11/20/2017,Michael Tedeschi (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000091.xml,Agarwal Saurav (non-Celgene),Closed,asauravexample.com,SERAForm 000091,Amy Kellerman,ikuexample.com,91,,11/22/2017 10:58,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,AKellermanexample.com,"
+SSO Permission
+Business User",asaurav@example.com,,,,,94,11/20/2017,11/20/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000090.xml,Fleur Zijlstra,Closed,fzijlstraexample.com,SERAForm 000090,Amy Kellerman,ikuexample.com,90,,1/8/2018 5:55,Dinesh Mani (non-Celgene),,,business user,,AKellermanexample.com,"
+SSO Permission
+Business User",fzijlstra@example.com,,,,,93,11/20/2017,11/20/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000089.xml,Elin Rhoos,Closed,erhoosexample.com,SERAForm 000089,Elin Rhoos,ikuexample.com,89,,12/4/2017 4:23,Dinesh Mani (non-Celgene),,,business user,,erhoosexample.com,"
+SSO Permission
+Business User",erhoos@example.com,Elin Rhoos,,,,92,11/20/2017,11/20/2017,Elin Rhoos,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000088.xml,Elin Rhoos,Closed,erhoosexample.com,SERAForm 000088,Elin Rhoos,ikuexample.com,88,,12/4/2017 4:23,Dinesh Mani (non-Celgene),,,business user,,erhoosexample.com,"
+SSO Permission
+Business User",nverbeke@example.com,Nicolas Verbeke,,,,91,11/20/2017,11/20/2017,Nicolas Verbeke,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000087.xml,David DeMaio,Closed,ddemaioexample.com,SERAForm 000087,Mary Kiefer,ikuexample.com,87,,1/8/2018 5:55,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ddemaio@example.com,,,,,90,11/17/2017,11/17/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000086.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000086,Mary Kiefer,ikuexample.com,86,,11/28/2017 4:58,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",lcoetzee@example.com,Lynne Coetzee,,,,89,11/17/2017,11/17/2017,Lynne Coetzee,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000085.xml,Olivier Tonnau,Closed,otonnauexample.com,SERAForm 000085,Mary Kiefer,ikuexample.com,85,,12/12/2017 1:53,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",otonnau@example.com,,,,,88,11/17/2017,11/17/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000084.xml,Lynne Coetzee,Rejected,lcoetzeeexample.com,SERAForm 000084,Lynne Coetzee,ikuexample.com,84,,11/17/2017 13:02,Mary Kiefer,,,business user,,lcoetzeeexample.com,,njendly@example.com,Nicolas Jendly,Rejected form submitted for Nicolas who already has Explorer access,,,87,11/17/2017,11/17/2017,Nicolas Jendly,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000083.xml,Eliana Scaravaggi,Closed,escaravaggiexample.com,SERAForm 000083,Mary Kiefer,ikuexample.com,83,,12/11/2017 5:10,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",escaravaggi@example.com,,,,,86,11/17/2017,11/17/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000082.xml,Alessandra Falcone,Closed,afalconeexample.com,SERAForm 000082,Mary Kiefer,ikuexample.com,82,,1/8/2018 5:56,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",afalcone@example.com,,,,,85,11/17/2017,11/17/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000081.xml,Esther Fernandez (non-Celgene),Closed,efernandezexample.com,SERAForm 000081,Mary Kiefer,ikuexample.com,81,,11/21/2017 5:33,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",efernandez@example.com,,,,,84,11/17/2017,11/17/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000080.xml,Alberto Moro,Closed,amoroexample.com,SERAForm 000080,Alberto Moro,ikuexample.com,80,,11/28/2017 5:14,Dinesh Mani (non-Celgene),,,business user,,amoroexample.com,"
+SSO Permission
+Business User",amoro@example.com,Alberto Moro,,,,83,11/17/2017,11/17/2017,Alberto Moro,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000079.xml,Devis Moretti,Closed,dmorettiexample.com,SERAForm 000079,Mary Kiefer,ikuexample.com,79,,1/8/2018 5:57,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dmoretti@example.com,,,,,82,11/17/2017,11/17/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000078.xml,Britt Kjersti Lund,Closed,bkjerstilundexample.com,SERAForm 000078,Mary Kiefer,ikuexample.com,78,,1/8/2018 5:57,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",bkjerstilund@example.com,,,,,81,11/16/2017,11/16/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000077.xml,Odd-Jan Gjeruldsen,Closed,ogjeruldsenexample.com,SERAForm 000077,Odd-Jan Gjeruldsen,ikuexample.com,77,,12/18/2017 2:11,Dinesh Mani (non-Celgene),,,business user,,ogjeruldsenexample.com,"
+SSO Permission
+Business User",ogjeruldsen@example.com,Odd-Jan Gjeruldsen,,,,80,11/16/2017,11/16/2017,Odd-Jan Gjeruldsen,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000076.xml,Mette Gronkjaer,Closed,mgronkjaerexample.com,SERAForm 000076,Mette Gronkjaer,ikuexample.com,76,,11/28/2017 5:14,Dinesh Mani (non-Celgene),,,business user,,mgronkjaerexample.com,"
+SSO Permission
+Business User",mgronkjaer@example.com,Mette Gronkjaer,,,,79,11/16/2017,11/16/2017,Mette Gronkjaer,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000075.xml,Marisa Galilea,Closed,mgalileaexample.com,SERAForm 000075,Mary Kiefer,ikuexample.com,75,,1/8/2018 5:58,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mgalilea@example.com,,,,,78,11/16/2017,11/16/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000074.xml,Linda Wiman,Closed,lwimanexample.com,SERAForm 000074,Mary Kiefer,ikuexample.com,74,,11/28/2017 5:13,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",lwiman@example.com,,,,,77,11/16/2017,11/16/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000073.xml,Nina Uurtamo,Closed,nuurtamoexample.com,SERAForm 000073,Mary Kiefer,ikuexample.com,73,,12/19/2017 12:16,Babita Bhagchandani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",nuurtamo@example.com,,,,,76,11/15/2017,11/15/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000072.xml,Zaid Haque (non-Celgene),Rejected,zhaqueexample.com,SERAForm 000072,Zaid Haque (non-Celgene),ikuexample.com,72,,1/10/2018 8:28,Mary Kiefer,,,business user,,zhaqueexample.com,,zhaque@example.com,Zaid Haque (non-Celgene),training not completed,,,75,11/13/2017,11/13/2017,Zaid Haque (non-Celgene),Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000071.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000071,Mary Kiefer,ikuexample.com,71,,11/15/2017 2:03,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",pkiselev@example.com,Pavel Kiselev,,,,74,11/13/2017,11/13/2017,Pavel Kiselev,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000070.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000070,Mary Kiefer,ikuexample.com,70,,11/28/2017 5:13,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",minjaychock@example.com,Michael Injaychock,,,,73,11/13/2017,11/13/2017,Michael Injaychock,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000069.xml,Chiara De Paola,Closed,cdepaolaexample.com,SERAForm 000069,Mary Kiefer,ikuexample.com,69,,11/28/2017 5:13,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cdepaola@example.com,,,,,72,11/13/2017,11/13/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000068.xml,Mary Kiefer,Rejected,mkieferexample.com,SERAForm 000068,Mary Kiefer,ikuexample.com,68,,12/27/2017 13:59,Mary Kiefer,,,business user,,mkieferexample.com,,sstrool@example.com,Scott Strool (non-Celgene),does not need access,,,71,11/10/2017,11/10/2017,Scott Strool (non-Celgene),Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000067.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000067,Mary Kiefer,ikuexample.com,67,,12/4/2017 22:43,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",bmajumdar@example.com,Biswajit Majumdar (non-Celgene),,,,70,11/10/2017,11/10/2017,Biswajit Majumdar (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000066.xml,Mitasvil Patel (non-Celgene),Closed,mitapatelexample.com,SERAForm 000066,Mitasvil Patel (non-Celgene),ikuexample.com,66,,11/15/2017 11:38,Babita Bhagchandani (non-Celgene),,,business user,,mitapatelexample.com,"
+SSO Permission
+Business User",rbsingh@example.com,Richipal Bindra Singh,,,,69,11/7/2017,11/7/2017,Richipal Bindra Singh,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000065.xml,Christopher Taylor,Closed,chtaylorexample.com,SERAForm 000065,Christopher Taylor,ikuexample.com,65,,11/10/2017 1:26,Dinesh Mani (non-Celgene),,,business user,,chtaylorexample.com,"
+SSO Permission
+Business User",chtaylor@example.com,Christopher Taylor,,,,68,11/6/2017,11/6/2017,Christopher Taylor,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000064.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000064,Mary Kiefer,ikuexample.com,64,,11/9/2017 7:02,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dwheeler@example.com,Derrick Wheeler (non-Celgene),,,,67,11/2/2017,11/2/2017,Derrick Wheeler (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000063.xml,Deepak Verma,Closed,devermaexample.com,SERAForm 000063,Deepak Verma,ikuexample.com,63,,11/15/2017 2:02,Dinesh Mani (non-Celgene),,,business user,,devermaexample.com,"
+SSO Permission
+Business User",deverma@example.com,Deepak Verma,,,,66,10/31/2017,10/31/2017,Deepak Verma,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000062.xml,Eric Kim,Rejected,ekimexample.com,SERAForm 000062,Mary Kiefer,ikuexample.com,62,,12/24/2017 9:15,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ekim@example.com,,,,,65,10/25/2017,10/25/2017,,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000061.xml,Hiren Shah,Closed,hshahexample.com,SERAForm 000061,Hiren Shah,ikuexample.com,61,,10/26/2017 23:48,Dinesh Mani (non-Celgene),,,business user,,hshahexample.com,"
+SSO Permission
+Business User",hshah@example.com,Hiren Shah,,,,64,10/25/2017,10/25/2017,Hiren Shah,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000060.xml,Dennis Sadic,Closed,dsadicexample.com,SERAForm 000060,Mary Kiefer,ikuexample.com,60,,10/26/2017 23:47,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dsadic@example.com,,,,,63,10/25/2017,10/25/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000059.xml,Matthew Gainey,Closed,mgaineyexample.com,SERAForm 000059,Mary Kiefer,ikuexample.com,59,,10/26/2017 23:46,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mgainey@example.com,,,,,62,10/24/2017,10/24/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000058.xml,Martha Aldridge,Closed,maldridgeexample.com,SERAForm 000058,Mary Kiefer,ikuexample.com,58,,11/28/2017 5:12,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",maldridge@example.com,,,,,61,10/24/2017,10/24/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000057.xml,Rinu Jacob,Closed,rjacobexample.com,SERAForm 000057,Mary Kiefer,ikuexample.com,57,,11/2/2017 2:03,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",rjacob@example.com,,,,,60,10/24/2017,10/24/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000056.xml,Doreen Hill,Closed,dhillexample.com,SERAForm 000056,Mary Kiefer,ikuexample.com,56,,10/25/2017 9:50,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dhill@example.com,,,,,59,10/23/2017,10/23/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000055.xml,Satyin Kaura,Rejected,skauraexample.com,SERAForm 000055,Satyin Kaura,ikuexample.com,55,,10/23/2017 15:10,Mary Kiefer,,,business user,,skauraexample.com,,skaura@example.com,Satyin Kaura,user already has access,,,58,10/20/2017,10/20/2017,Satyin Kaura,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000054.xml,Sofie Leroux,Closed,slerouxexample.com,SERAForm 000054,Mary Kiefer,ikuexample.com,54,,12/18/2017 2:12,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sleroux@example.com,,,,,57,10/19/2017,10/19/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000053.xml,Shruti Jaiswal (non-Celgene),Rejected,shjaiswalexample.com,SERAForm 000053,Shruti Jaiswal (non-Celgene),ikuexample.com,53,,10/18/2017 10:34,Mary Kiefer,,,business user,,shjaiswalexample.com,,pbacon@example.com,Pamela Bacon,Pam is already on Explorer,,,56,10/18/2017,10/18/2017,Pamela Bacon,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000052.xml,Shruti Jaiswal (non-Celgene),Closed,shjaiswalexample.com,SERAForm 000052,Shruti Jaiswal (non-Celgene),ikuexample.com,52,,10/20/2017 12:26,Madhu Ballani (non-Celgene),,,business user,,shjaiswalexample.com,"
+SSO Permission
+Business User",frodrigues@example.com,Filipe Rodrigues,,,,55,10/18/2017,10/18/2017,Filipe Rodrigues,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000051.xml,Dilip Paleti (non-Celgene),Rejected,dpaletiexample.com,SERAForm 000051,Mary Kiefer,ikuexample.com,51,,11/16/2017 12:39,Mary Kiefer,,,business user,,mkieferexample.com,,dpaleti@example.com,,Dilip - I'm not sure if you really need access to Synapse Explorer.  Please resubmit this request if you do.,,,54,10/18/2017,10/18/2017,,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000050.xml,Nisha Zaidi,Closed,nzaidiexample.com,SERAForm 000050,Mary Kiefer,ikuexample.com,50,,10/20/2017 12:18,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",nzaidi@example.com,,,,,53,10/18/2017,10/18/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000048.xml,Matti Zeffel,Closed,mzeffelexample.com,SERAForm 000048,Matti Zeffel,ikuexample.com,48,,10/27/2017 4:55,Dinesh Mani (non-Celgene),,,business user,,mzeffelexample.com,"
+SSO Permission
+Business User",mzeffel@example.com,Matti Zeffel,,,,51,10/18/2017,10/18/2017,Matti Zeffel,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000047.xml,Tom Tencer,Rejected,ttencerexample.com,SERAForm 000047,Mary Kiefer,ikuexample.com,47,,12/16/2017 14:00,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ttencer@example.com,,,,,50,10/17/2017,10/17/2017,,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000046.xml,Carola Mala,Closed,cmalaexample.com,SERAForm 000046,Carola Mala,ikuexample.com,46,,10/20/2017 12:07,Madhu Ballani (non-Celgene),,,business user,,cmalaexample.com,"
+SSO Permission
+Business User",cmala@example.com,Carola Mala,,,,49,10/17/2017,10/17/2017,Carola Mala,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000045.xml,Silke Dannemann,Closed,sdannemannexample.com,SERAForm 000045,Mary Kiefer,ikuexample.com,45,,11/28/2017 5:11,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sdannemann@example.com,,,,,48,10/17/2017,10/17/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000044.xml,Sandra Werres,Rejected,swerresexample.com,SERAForm 000044,Mary Kiefer,ikuexample.com,44,,12/15/2017 4:30,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",swerres@example.com,,,,,47,10/16/2017,10/16/2017,,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000043.xml,Carolin Lueking,Closed,cluekingexample.com,SERAForm 000043,Mary Kiefer,ikuexample.com,43,,10/17/2017 2:07,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",clueking@example.com,,,,,46,10/16/2017,10/16/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000042.xml,Malte Julian Fellermeier,Closed,mjfellermeierexample.com,SERAForm 000042,Mary Kiefer,ikuexample.com,42,,10/20/2017 12:13,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mjfellermeier@example.com,,,,,45,10/16/2017,10/16/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000041.xml,Adam del Corral,Closed,adelcorralexample.com,SERAForm 000041,Adam del Corral,ikuexample.com,41,,10/17/2017 2:07,Dinesh Mani (non-Celgene),,,business user,,adelcorralexample.com,"
+SSO Permission
+Business User",adelcorral@example.com,Adam del Corral,,,,44,10/13/2017,10/13/2017,Adam del Corral,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000040.xml,Ronny Engelke,Closed,rengelkeexample.com,SERAForm 000040,Mary Kiefer,ikuexample.com,40,,10/25/2017 9:51,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",rengelke@example.com,,,,,43,10/13/2017,10/13/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000039.xml,Sylvie Aubert,Rejected,saubertexample.com,SERAForm 000039,Sylvie Aubert,ikuexample.com,39,,12/12/2017 7:30,System Account,,,business user,,saubertexample.com,"
+SSO Permission
+Business User",saubert@example.com,Sylvie Aubert,,,,42,10/13/2017,10/13/2017,Sylvie Aubert,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000038.xml,Lisa Segesta,Closed,lsegestaexample.com,SERAForm 000038,Mary Kiefer,ikuexample.com,38,,10/20/2017 12:22,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",lsegesta@example.com,,,,,41,10/13/2017,10/13/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000037.xml,Mitasvil Patel (non-Celgene),Closed,mitapatelexample.com,SERAForm 000037,Mitasvil Patel (non-Celgene),ikuexample.com,37,,10/25/2017 9:51,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mitapatelexample.com,"
+SSO Permission
+Business User",ikhan@example.com,Imran Khan (non-Celgene),,,,40,10/12/2017,10/12/2017,Imran Khan (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000036.xml,Mitasvil Patel (non-Celgene),Closed,mitapatelexample.com,SERAForm 000036,Mitasvil Patel (non-Celgene),ikuexample.com,36,,10/17/2017 2:08,Dinesh Mani (non-Celgene),,,business user,,mitapatelexample.com,"
+SSO Permission
+Business User",avghosh@example.com,Avik Ghosh (non-Celgene),,,,39,10/12/2017,10/12/2017,Avik Ghosh (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000035.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000035,Mary Kiefer,ikuexample.com,35,,10/12/2017 2:02,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",cstudenmund@example.com,Connell Studenmund (non-Celgene),,,,38,10/11/2017,10/11/2017,Connell Studenmund (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000034.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000034,Mary Kiefer,ikuexample.com,34,,10/17/2017 2:09,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ceyoung@example.com,Cecilia Young,,,,37,10/11/2017,10/11/2017,Cecilia Young,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000033.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000033,Mary Kiefer,ikuexample.com,33,,10/11/2017 3:16,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",dghali@example.com,Daniel Ghali,,,,36,10/10/2017,10/10/2017,Daniel Ghali,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000032.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000032,Mary Kiefer,ikuexample.com,32,,10/11/2017 3:16,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",bgluck@example.com,Barbara Gluck,,,,35,10/10/2017,10/10/2017,Barbara Gluck,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000031.xml,Ruman Mohammed (non-Celgene),Closed,rumohammedexample.com,SERAForm 000031,Ruman Mohammed (non-Celgene),ikuexample.com,31,,11/9/2017 7:42,Dinesh Mani (non-Celgene),,,business user,,rumohammedexample.com,"
+SSO Permission
+Business User",rumohammed@example.com,Ruman Mohammed (non-Celgene),,,,34,10/10/2017,10/10/2017,Ruman Mohammed (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000030.xml,Judith Ruf (non-Celgene),Closed,jrufexample.com,SERAForm 000030,Mary Kiefer,ikuexample.com,30,,10/20/2017 8:16,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jruf@example.com,,,,,33,10/10/2017,10/10/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000029.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000029,Mary Kiefer,ikuexample.com,29,,10/10/2017 2:23,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",kbannout@example.com,Khaled Bannout,,,,32,10/9/2017,10/9/2017,Khaled Bannout,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000028.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000028,Mary Kiefer,ikuexample.com,28,,10/10/2017 1:54,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jfurie@example.com,Janice Furie,,,,31,10/9/2017,10/9/2017,Janice Furie,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000027.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000027,Mary Kiefer,ikuexample.com,27,,10/10/2017 3:32,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",npowell@example.com,Nancy Powell,,,,30,10/9/2017,10/9/2017,Nancy Powell,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000026.xml,Daniel Ghali,Rejected,dghaliexample.com,SERAForm 000026,Daniel Ghali,ikuexample.com,26,,10/10/2017 16:21,Mary Kiefer,,,business user,,dghaliexample.com,,njendly@example.com,Nicolas Jendly,"rejecting form submitted for Nicolas, will submit a new form for Daniel",,,29,10/9/2017,10/9/2017,Nicolas Jendly,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000025.xml,Uwe Rosenberger,Closed,urosenbergerexample.com,SERAForm 000025,Mary Kiefer,ikuexample.com,25,,10/10/2017 3:31,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",urosenberger@example.com,,,,,28,10/9/2017,10/9/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000024.xml,Pierre Fustier,Rejected,pfustierexample.com,SERAForm 000024,Mary Kiefer,ikuexample.com,24,,12/8/2017 5:55,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",pfustier@example.com,,,,,27,10/9/2017,10/9/2017,,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000023.xml,Jocelyne Flament,Closed,jflamentexample.com,SERAForm 000023,Jocelyne Flament,ikuexample.com,23,,10/10/2017 3:50,Dinesh Mani (non-Celgene),,,business user,,jflamentexample.com,"
+SSO Permission
+Business User",jflament@example.com,Jocelyne Flament,,,,26,10/6/2017,10/6/2017,Jocelyne Flament,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000022.xml,Veronika Besau,Closed,vbesauexample.com,SERAForm 000022,Mary Kiefer,ikuexample.com,22,,10/10/2017 3:54,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",vbesau@example.com,,,,,25,10/6/2017,10/6/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000021.xml,Maryline Dias,Closed,mdiasexample.com,SERAForm 000021,Maryline Dias,ikuexample.com,21,,11/28/2017 5:11,Dinesh Mani (non-Celgene),,,business user,,mdiasexample.com,"
+SSO Permission
+Business User",mdias@example.com,Maryline Dias,,,,24,10/6/2017,10/6/2017,Maryline Dias,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000020.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000020,Mary Kiefer,ikuexample.com,20,,10/3/2017 9:43,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ikopysitsky@example.com,Ilya Kopysitsky (non-Celgene),,,,23,10/2/2017,10/2/2017,Ilya Kopysitsky (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000019.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000019,Mary Kiefer,ikuexample.com,19,,10/12/2017 2:02,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",acarisone@example.com,Alex Carisone (non-Celgene),,,,22,10/2/2017,10/2/2017,Alex Carisone (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000018.xml,Babita Bhagchandani (non-Celgene),Rejected,bbhagchandaniexample.com,SERAForm 000018,Babita Bhagchandani (non-Celgene),ikuexample.com,18,,10/2/2017 12:24,Mary Kiefer,,,business user,,bbhagchandaniexample.com,,mballani@example.com,Madhu Ballani (non-Celgene),rejecting test record,,,21,10/2/2017,10/2/2017,Madhu Ballani (non-Celgene),Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000017.xml,Babita Bhagchandani (non-Celgene),Rejected,bbhagchandaniexample.com,SERAForm 000017,Mary Kiefer,ikuexample.com,17,,10/2/2017 12:24,Mary Kiefer,,,business user,,mkieferexample.com,,bbhagchandani@example.com,,rejecting test record,,,20,9/29/2017,9/29/2017,,Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000016.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000016,Mary Kiefer,ikuexample.com,16,,10/10/2017 3:50,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jhommes@example.com,Juliet Hommes,,,,19,9/29/2017,9/29/2017,Juliet Hommes,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000015.xml,Mariana Ricci (non-Celgene),Closed,mricciexample.com,SERAForm 000015,Mary Kiefer,ikuexample.com,15,,10/12/2017 1:54,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mricci@example.com,,,,,18,9/29/2017,9/29/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000014.xml,Simone Jeger,Rejected,sjegerexample.com,SERAForm 000014,Mary Kiefer,ikuexample.com,14,,11/28/2017 7:00,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",sjeger@example.com,,,,,17,9/29/2017,9/29/2017,,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000013.xml,Laurens Finsy,Rejected,lfinsyexample.com,SERAForm 000013,Laurens Finsy,ikuexample.com,13,,11/28/2017 1:35,System Account,,,business user,,lfinsyexample.com,"
+SSO Permission
+Business User",lfinsy@example.com,Laurens Finsy,,,,16,9/29/2017,9/29/2017,Laurens Finsy,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000012.xml,Jeff Friedman (non-Celgene),Closed,jfriedmanexample.com,SERAForm 000012,Mary Kiefer,ikuexample.com,12,,10/10/2017 2:23,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jfriedman@example.com,,,,,15,9/28/2017,9/28/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000011.xml,Nils Rettby,Closed,nrettbyexample.com,SERAForm 000011,Mary Kiefer,ikuexample.com,11,,10/23/2017 4:50,Dinesh Mani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",nrettby@example.com,,,,,14,9/28/2017,9/28/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000010.xml,Keith Koharski,Closed,kkoharskiexample.com,SERAForm 000010,Mary Kiefer,ikuexample.com,10,,9/29/2017 9:15,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",kkoharski@example.com,,,,,13,9/28/2017,9/28/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000009.xml,Jeevan Shetty,Rejected,jshettyexample.com,SERAForm 000009,Mary Kiefer,ikuexample.com,9,,11/27/2017 11:40,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",jshetty@example.com,,,,,12,9/28/2017,9/28/2017,,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000008.xml,Ana Slaughter,Closed,anslaughterexample.com,SERAForm 000008,Ana Slaughter,ikuexample.com,8,,10/25/2017 9:52,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,anslaughterexample.com,"
+SSO Permission
+Business User",anslaughter@example.com,Ana Slaughter,,,,11,9/28/2017,9/28/2017,Ana Slaughter,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000007.xml,Yvan Le Bruchec,Closed,ylebruchecexample.com,SERAForm 000007,Mary Kiefer,ikuexample.com,7,,10/3/2017 3:25,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",ylebruchec@example.com,,,,,10,9/28/2017,9/28/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000006.xml,Ignazia La Torre,Rejected,iltorreexample.com,SERAForm 000006,Mary Kiefer,ikuexample.com,6,,1/8/2018 4:16,System Account,,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",iltorre@example.com,,,,,9,9/28/2017,9/28/2017,,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000005.xml,Babita Bhagchandani (non-Celgene),Closed,bbhagchandaniexample.com,SERAForm 000005,Babita Bhagchandani (non-Celgene),ikuexample.com,5,,10/10/2017 3:50,Dinesh Mani (non-Celgene),,,business user,,bbhagchandaniexample.com,"
+SSO Permission
+Business User",rselvarathinam@example.com,Rathinam Selvarathinam (non-Celgene),,,,8,9/27/2017,9/27/2017,Rathinam Selvarathinam (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000004.xml,Patrick Loerch,Rejected,ploerchexample.com,SERAForm 000004,Patrick Loerch,ikuexample.com,4,,11/26/2017 11:45,System Account,,,business user,,ploerchexample.com,"
+SSO Permission
+Business User",shsrinivasan@example.com,Shankar Srinivasan,,,,7,9/27/2017,9/27/2017,Shankar Srinivasan,Rejected,,,1,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000003.xml,Alexandra Seifner,Closed,aseifnerexample.com,SERAForm 000003,Mary Kiefer,ikuexample.com,3,,10/20/2017 12:10,Madhu Ballani (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",aseifner@example.com,,,,,6,9/26/2017,9/26/2017,,Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000002.xml,Mary Kiefer,Closed,mkieferexample.com,SERAForm 000002,Mary Kiefer,ikuexample.com,2,,9/29/2017 8:25,Anjaneyulu Yarapathineni (non-Celgene),,,business user,,mkieferexample.com,"
+SSO Permission
+Business User",mshuster@example.com,Mitchell Shuster (non-Celgene),,,,5,9/25/2017,9/25/2017,Mitchell Shuster (non-Celgene),Closed,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
+SERAForm 000001.xml,Mary Kiefer,Rejected,mkieferexample.com,SERAForm 000001,Mary Kiefer,ikuexample.com,1,,9/25/2017 12:29,Mary Kiefer,,,business user,,mkieferexample.com,,aryacobi@example.com,Ari Yacobi (non-Celgene),user does not need access,,,4,9/25/2017,9/25/2017,Ari Yacobi (non-Celgene),Rejected,,,0,,,Item,forms/IT/SYNAPSEExplorerRequestAccessForm
