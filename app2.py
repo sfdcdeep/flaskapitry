@@ -2,7 +2,7 @@ import os
 import sys
 from datetime import datetime
 from simple_salesforce import Salesforce
-sf = Salesforce(username='abatini27@gmail.com', password='Salesa@1234', security_token='4x8sp5Hi9tlbcBzfOCv2cP8N', sandbox=False)
+sf = Salesforce(username='abatini27@gmail.com', password='Salesa@1212', security_token='', sandbox=False)
 Lastname='Python'
 Firstname='SFDC'
 Name = Firstname + " " + Lastname
