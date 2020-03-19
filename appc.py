@@ -3,9 +3,9 @@ import sys
 from datetime import datetime
 from simple_salesforce import Salesforce
 #def sfinsert():
-sf = Salesforce(username='abatini27@gmail.com', password='Salesa@1234', security_token='4x8sp5Hi9tlbcBzfOCv2cP8N', sandbox=False)
-Lastname='John'
-Firstname='Philips'
+sf = Salesforce(username='abatini27@gmail.com', password='Salesa@112', security_token='4x8sp5Hi9tlbcBzfOCv2cP8N', sandbox=False)
+Lastname='APJ'
+Firstname='Abdhulkalam'
 Name = Firstname + " " + Lastname
 #NoOfChilds='30'
 print("User Name:" + Name)
