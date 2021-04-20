@@ -32,7 +32,7 @@ pipenv==2018.7.1
 pluggy==0.8.0
 post==1.0.2
 public==1.0.3
-py==1.7.0
+py==1.10.0
 pycparser==2.18
 pylint==2.1.1
 pyOpenSSL==18.0.0
