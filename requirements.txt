@@ -40,7 +40,7 @@ pytest==3.9.2
 pytz==2018.5
 query-string==1.0.2
 request==1.0.2
-requests==2.19.1
+requests==2.20.0
 requirements==0.1
 salesforce-bulk==2.1.0
 simple-salesforce==0.74.2
